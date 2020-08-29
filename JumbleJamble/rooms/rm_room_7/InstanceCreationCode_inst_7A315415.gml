@@ -1,0 +1,1 @@
+type = choose("wood", "car", "bow", "shield", "tree");
