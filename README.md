@@ -2,6 +2,8 @@
 
 Jumble Jamble is a game made in about 32 hours for the Miz Jame 1 game jam, you can view it on Itch here: https://davabase.itch.io/jumble-jamble
 
+The art assets come from the free Kenney 1-bit pack: https://kenney.nl/assets/bit-pack
+
 The game uses a free lighting asset called Fast Lights 2, you can find it here: https://marketplace.yoyogames.com/assets/9106/fast-lights-2
 
 It's a simple physics based game but there's some interesting stuff in here.
