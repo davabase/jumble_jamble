@@ -1,6 +1,6 @@
 # Jumble Jamble
 
-Jumble Jamble is a game made in about 32 hours for the Miz Jame 1 game jam, you can view it on Itch here: https://davabase.itch.io/jumble-jamble
+Jumble Jamble is a game made in about 32 hours for the Miz Jam 1 game jam, you can view it on Itch here: https://davabase.itch.io/jumble-jamble
 
 The art assets come from the free Kenney 1-bit pack: https://kenney.nl/assets/bit-pack
 
